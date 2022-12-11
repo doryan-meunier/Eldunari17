@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dorya\Desktop\saé2c\Source.cpp(86,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\dorya\Desktop\saé2c\Source.cpp(157,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  saé2c.vcxproj -> C:\Users\dorya\Desktop\saé2c\Debug\saé2c.exe
